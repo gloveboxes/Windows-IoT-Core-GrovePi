@@ -1,0 +1,2 @@
+C:\Data\Github\WindowsIoTCoreGrovePi\Driver\Driver.csproj;arm
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\GrovePi.csproj;arm

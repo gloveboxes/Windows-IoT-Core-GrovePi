@@ -1,0 +1,17 @@
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\bin\ARM\Debug\GrovePi.dll
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\bin\ARM\Debug\GrovePi.pdb
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\bin\ARM\Debug\GrovePi.pri
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\GrovePi.dll
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\GrovePi.pdb
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\priconfig.xml
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\layout.resfiles
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\resources.resfiles
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\pri.resfiles
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\qualifiers.txt
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\obj\ARM\Debug\GrovePi.csprojResolveAssemblyReference.cache

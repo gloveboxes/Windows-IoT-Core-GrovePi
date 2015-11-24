@@ -1,0 +1,2 @@
+C:\Data\Github\WindowsIoTCoreGrovePi\GrovePi\GrovePi.csproj;arm
+C:\Data\Github\WindowsIoTCoreGrovePi\WindowsIoTCoreGrovePi\WindowsIoTCoreGrovePi.csproj;arm
